@@ -1,2 +1,3 @@
 First time writing a file
 I am learning the internal working of git commands..
+I learnt git commands like git add, git diff, git commit, git status, git push...
