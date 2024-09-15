@@ -1,1 +1,2 @@
 First time writing a file
+I am learning the internal working of git commands..
